@@ -44,6 +44,6 @@
 	<li>Prachi Rathod</li>
 	<li>Sameer Dhumal</li>
 	<li>Rushikesh Kadam</li>
-	<li>Gaurav Hedge</li>
+	<li>Gaurav Hadge</li>
  </ul>
 <hr>
